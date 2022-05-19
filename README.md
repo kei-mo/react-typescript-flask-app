@@ -1,5 +1,5 @@
 # react-typescript-flask-app
-A template repository of an app using react, typescript, and flask (as an api).
+A template repository for creating an app using react, typescript, and flask (as an api).
 
 This repository is typescript (and React Router v6) version of an awesome tutorial.  
 * Tutorial : https://blog.miguelgrinberg.com/post/how-to-create-a-react--flask-project
