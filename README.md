@@ -8,7 +8,7 @@ This repository is typescript (and React Router v6) version of an awesome tutori
 Docker setting, nginx setting, and flask api codes are basically copied from the repository above.  
 (Changed slightly to fit a recent version of javascript and python.)  
 
-## Tutorial: how to run a server
+## Tutorial 1: how to run a server
 
 ```bash
 git clone git@github.com:kei-mo/react-typescript-flask-app.git
@@ -28,7 +28,7 @@ Sample app will run on `http://localhost:3000/`.
 You can also access page2 from this url `http://localhost:3000/page2`.
 
 
-## How to reproduce this repository
+## Tutorial 2: How to reproduce this repository
 Here's an overview of what I did to create this template app. 
 ### Create app.
 ```bash
